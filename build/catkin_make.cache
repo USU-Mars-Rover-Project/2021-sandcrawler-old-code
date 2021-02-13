@@ -1,0 +1,2 @@
+nyx_joy
+-DCATKIN_DEVEL_PREFIX=/home/ares/nyx_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ares/nyx_ws/install -G Unix Makefiles

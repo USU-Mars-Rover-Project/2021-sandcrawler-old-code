@@ -1,0 +1,8 @@
+prefix=/home/ares/nyx_ws/install
+
+Name: nyx_joy
+Description: Description of nyx_joy
+Version: 1.12.0
+Cflags: 
+Libs: -L/home/ares/nyx_ws/install/lib 
+Requires: roscpp diagnostic_updater sensor_msgs
